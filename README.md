@@ -1,11 +1,12 @@
-# GOV.UK Design System Redirect
+# GOV.UK Prototype Kit Redirect
 
-This is a simple CloudFoundry app that redirects all requests to our service
-domain.
+This is a simple CloudFoundry app that redirects all requests to the Prototype
+Kit tutorials and examples page.
 
-We use it to redirect the cloudapps.digital domain we used during private beta
-(which may be bookmarked by our private beta partners, and is referred to in
-documentation ) to our service domain (design-system.service.gov.uk)
+We use it to redirect the prototype-kit-training.cloudapps.digital domain we
+previously used for in-person training (which may be bookmarked by people who
+attended our training, and is referred to in documentation ) to our main docs
+site (https://govuk-prototype-kit.herokuapp.com)
 
 ## Licence
 
